@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1699525841 source:c:\users\carto\documents\informatik\programmieren\terminkalendar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
